@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hot.opensauced.pizza.ico",
     "slug": "hot-opensauced-pizza",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 502,
-    "timeDay": 1320,
-    "timeWeek": 891,
-    "timeMonth": 483,
+    "timeDay": 1378,
+    "timeWeek": 707,
+    "timeMonth": 494,
     "timeYear": 502,
-    "dailyMinutesDown": {
-      "2022-12-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.opensauced.pizza",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 431,
-    "timeWeek": 404,
+    "time": 439,
+    "timeDay": 300,
+    "timeWeek": 383,
     "timeMonth": 416,
-    "timeYear": 442,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 431,
-    "timeDay": 248,
-    "timeWeek": 287,
-    "timeMonth": 308,
-    "timeYear": 431,
+    "time": 429,
+    "timeDay": 358,
+    "timeWeek": 291,
+    "timeMonth": 312,
+    "timeYear": 429,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 209,
-    "timeWeek": 204,
-    "timeMonth": 317,
-    "timeYear": 470,
+    "time": 467,
+    "timeDay": 329,
+    "timeWeek": 210,
+    "timeMonth": 324,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 369,
-    "timeDay": 76,
-    "timeWeek": 291,
-    "timeMonth": 266,
-    "timeYear": 369,
+    "time": 368,
+    "timeDay": 333,
+    "timeWeek": 260,
+    "timeMonth": 265,
+    "timeYear": 368,
     "dailyMinutesDown": {}
   }
 ]
