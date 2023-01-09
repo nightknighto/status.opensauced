@@ -6,18 +6,16 @@
     "slug": "hot-opensauced-pizza",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 450,
     "timeDay": 1709,
     "timeWeek": 656,
     "timeMonth": 387,
     "timeYear": 450,
-    "dailyMinutesDown": {
-      "2023-01-08": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "api.opensauced.pizza",
@@ -62,18 +60,16 @@
     "slug": "docs-opensauced-pizza",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
     "timeDay": 1716,
     "timeWeek": 694,
     "timeMonth": 387,
     "timeYear": 419,
-    "dailyMinutesDown": {
-      "2023-01-08": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "explore.opensauced.pizza",
@@ -82,17 +78,15 @@
     "slug": "explore-opensauced-pizza",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
     "timeDay": 1545,
     "timeWeek": 536,
     "timeMonth": 299,
     "timeYear": 337,
-    "dailyMinutesDown": {
-      "2023-01-08": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
