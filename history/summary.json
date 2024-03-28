@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 327,
-    "timeDay": 212,
-    "timeWeek": 246,
-    "timeMonth": 247,
+    "timeDay": 492,
+    "timeWeek": 286,
+    "timeMonth": 253,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2023-03-30": 71,
-      "2023-03-29": 60
+      "2023-03-30": 71
     }
   },
   {
@@ -31,17 +30,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.88%",
-    "time": 497,
-    "timeDay": 436,
-    "timeWeek": 337,
-    "timeMonth": 985,
-    "timeYear": 518,
+    "time": 496,
+    "timeDay": 203,
+    "timeWeek": 291,
+    "timeMonth": 984,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2024-03-11": 15,
       "2024-02-19": 448,
       "2023-10-11": 17,
-      "2023-03-30": 71,
-      "2023-03-29": 60
+      "2023-03-30": 71
     }
   },
   {
@@ -55,15 +53,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 400,
-    "timeDay": 924,
-    "timeWeek": 422,
-    "timeMonth": 609,
-    "timeYear": 423,
+    "time": 401,
+    "timeDay": 512,
+    "timeWeek": 427,
+    "timeMonth": 613,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2023-09-06": 16,
-      "2023-03-30": 71,
-      "2023-03-29": 60
+      "2023-03-30": 71
     }
   },
   {
@@ -77,14 +74,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 270,
-    "timeDay": 353,
-    "timeWeek": 309,
-    "timeMonth": 386,
+    "time": 271,
+    "timeDay": 279,
+    "timeWeek": 331,
+    "timeMonth": 388,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2023-03-30": 71,
-      "2023-03-29": 60
+      "2023-03-30": 71
     }
   },
   {
@@ -99,13 +95,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 259,
-    "timeDay": 20,
-    "timeWeek": 116,
-    "timeMonth": 154,
+    "timeDay": 330,
+    "timeWeek": 155,
+    "timeMonth": 161,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2023-03-30": 71,
-      "2023-03-29": 60
+      "2023-03-30": 71
     }
   }
 ]
