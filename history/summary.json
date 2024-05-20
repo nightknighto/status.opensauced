@@ -68,18 +68,20 @@
     "url": "https://docs.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.opensauced.pizza.ico",
     "slug": "docs-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 236,
-    "timeWeek": 291,
-    "timeMonth": 243,
-    "timeYear": 246,
-    "dailyMinutesDown": {}
+    "time": 272,
+    "timeDay": 1674,
+    "timeWeek": 644,
+    "timeMonth": 335,
+    "timeYear": 254,
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "explore.opensauced.pizza",
