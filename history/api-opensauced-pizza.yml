@@ -1,7 +1,7 @@
 url: https://api.opensauced.pizza/
-status: down
-code: 504
-responseTime: 365
-lastUpdated: 2024-06-08T02:53:52.267Z
+status: up
+code: 200
+responseTime: 247
+lastUpdated: 2024-06-08T03:08:00.062Z
 startTime: 2022-10-17T18:28:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
