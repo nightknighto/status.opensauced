@@ -4,19 +4,19 @@
     "url": "https://hot.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/hot.opensauced.pizza.ico",
     "slug": "hot-opensauced-pizza",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 599,
-    "timeWeek": 357,
-    "timeMonth": 278,
+    "timeDay": 361,
+    "timeWeek": 328,
+    "timeMonth": 273,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-07-10": 0
+      "2024-07-10": 7
     }
   },
   {
