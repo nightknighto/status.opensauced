@@ -48,18 +48,19 @@
     "url": "https://app.opensauced.pizza/",
     "icon": "https://icons.duckduckgo.com/ip3/app.opensauced.pizza.ico",
     "slug": "app-opensauced-pizza",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
+    "time": 433,
     "timeDay": 458,
     "timeWeek": 311,
     "timeMonth": 334,
     "timeYear": 469,
     "dailyMinutesDown": {
+      "2024-09-11": 0,
       "2024-04-05": 19
     }
   },
